@@ -1,0 +1,47 @@
+[
+  
+  {
+    "repository": "CyanogenMod/android_kernel_xiaomi_msm8956",
+    "target_path": "kernel/xiaomi/msm8956",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository":  "TheMuppets/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+     "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/msm8952",
+    "branch": "cm-13.0-caf-8952"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/msm8952",
+    "branch": "cm-13.0-caf-8952"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/msm8952",
+    "branch": "cm-13.0-caf-8952"
+  },
+  {
+    "repository": "CyanogenMod/android_external_libnfnetlink",
+    "target_path": "external/libnfnetlink",
+    "branch": "cm-13.0"
+  },
+  {
+    "repository": "CyanogenMod/android_external_libnetfilter_conntrack",
+    "target_path": "external/libnetfilter_conntrack",
+    "branch": "cm-13.0"
+  },
+{
+    "repository": "CyanogenMod/android_hardware_cyanogen",
+    "target_path": "hardware/cyanogen",
+    "branch": "cm-13.0"
+}
